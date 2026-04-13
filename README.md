@@ -2,10 +2,11 @@
 <div align="center">
 
 # 👋 Hello, I'm Christian
-### Junior Web Developer | Full Stack Enthusiast
 
-Welcome to my GitHub profile  
-I enjoy building web applications, APIs and working with databases.
+### Junior Web Developer | Full Stack Developer
+
+I enjoy building web applications, APIs and working with databases.  
+Currently focused on backend development, database design and scalable web systems.
 
 </div>
 
@@ -29,6 +30,8 @@ I enjoy building web applications, APIs and working with databases.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"/>
 &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60px"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60px"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px"/>
@@ -43,9 +46,13 @@ I enjoy building web applications, APIs and working with databases.
 
 <div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60px"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60px"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="60px"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60px"/>
 
 </div>
 
@@ -55,9 +62,9 @@ I enjoy building web applications, APIs and working with databases.
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60px"/>
-&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60px"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60px"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="60px"/>
 
@@ -71,11 +78,13 @@ I enjoy building web applications, APIs and working with databases.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60px"/>
-&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60px"/>
 &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60px"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="60px"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="60px"/>
 
 </div>
 
@@ -112,6 +121,7 @@ Features:
 - Ranking system by year
 - Structured data management
 - SQL queries and relationships
+- Scalable backend architecture
 
 Technologies used:
 
@@ -120,16 +130,48 @@ Technologies used:
 - REST API  
 - JSON  
 - PostgreSQL  
+- Supabase  
+
+---
+
+# 📊 GitHub/Project Stats
+
+<div align="center">
+
+  https://vercel.com/christians-projects-92447996/rc-manager-api
+
+<br>
+
+https://vercel.com/christians-projects-92447996/rcmanager
+</div>
 
 ---
 
 # 📚 Currently Learning
 
-- Backend Development
-- REST API Design
-- Database Architecture
-- Clean Code
-- Full Stack Development
+- Backend Development  
+- REST API Design  
+- Database Architecture  
+- Clean Code  
+- Full Stack Development  
+
+---
+
+# 📫 Contact
+
+<div align="center">
+
+Email: christianmorenodiaz85@gmail.com
+
+Phone: 619276645
+
+LinkedIn:  
+https://www.linkedin.com/in/christian-moreno-díaz-109024292/
+
+GitHub:  
+https://github.com/Chriiis85
+
+</div>
 
 ---
 
