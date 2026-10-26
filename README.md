@@ -2,7 +2,9 @@
 
 # 👋 ¡Hola, bienvenido a mi perfil! Soy Christian Moreno Díaz
 
-### **Desarrollador Web Full Stack · DAW & DAM · Madrid, España**
+### **DESARROLLADOR FULL STACK | DESARROLLADOR DE APLICACIONES WEB**
+**Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y Multiplataforma (DAM)**  
+**Getafe, Madrid · Carnet B (Coche propio)**
 
 <p align="center">
   <a href="https://portfolio-christianmd.vercel.app" target="_blank">
@@ -22,153 +24,101 @@
   </a>
 </p>
 
-> *"Desarrollo productos digitales con visión global: interfaces de usuario cuidadas al milímetro, arquitecturas backend sólidas y bases de datos optimizadas."*
+> *"Desarrollador Web Full Stack con formación integral en el diseño, desarrollo y mantenimiento de aplicaciones, y doble titulación técnica superior en DAW y DAM. Cuento con una visión global del ciclo de vida del software, desempeñándome con solidez técnica tanto en el desarrollo de interfaces de usuario modernas, interactivas y accesibles como en la implementación de la lógica de servidor, APIs RESTful y gestión de datos. Perfil orientado a resultados, código limpio y compromiso constante con la calidad técnica y las necesidades del usuario final."*
 
 ---
 
 </div>
 
-## 🚀 Sobre Mí
+## 🚀 Perfil Profesional
 
-Desarrollador Web Full Stack con doble titulación técnica superior (**DAW** y **DAM**) y experiencia en proyectos reales con **React**, **Next.js**, **TypeScript** y **Tailwind CSS** en frontend, junto con **Node.js**, **Express**, **PHP**, **PostgreSQL** y **Supabase** en backend. 
+Desarrollador Web Full Stack con formación integral en el diseño, desarrollo y mantenimiento de aplicaciones, y doble titulación técnica superior en DAW y DAM. Cuento con una visión global del ciclo de vida del software, desempeñándome con solidez técnica tanto en el desarrollo de interfaces de usuario modernas, interactivas y accesibles (**React, Angular, Next.js, TypeScript, Tailwind, Bootstrap**) como en la implementación de la lógica de servidor, APIs RESTful y gestión de datos (**Node.js, Express, C# / .NET, PHP, Java, PostgreSQL, SQL Server, MySQL, Supabase**). Perfil orientado a resultados, código limpio y compromiso constante con la calidad técnica y las necesidades del usuario final.
 
-Actualmente en **Análisis Survey Unit SL**, desarrollando y manteniendo plataformas web interactivas y gestionando bases de datos. Apasionado por crear interfaces cuidadas, accesibles y arquitecturas eficientes.
-
-* 🌐 **Portfolio interactivo:** [portfolio-christianmd.vercel.app](https://portfolio-christianmd.vercel.app)
-* 📍 **Ubicación:** Madrid, España
+* 🌐 **Portfolio Web:** [portfolio-christianmd.vercel.app](https://portfolio-christianmd.vercel.app)
+* 📍 **Ubicación:** Getafe, Madrid · Carnet B (Coche propio)
 
 ---
 
-## 💼 Experiencia Profesional
+## 💼 Experiencia Laboral
 
-### 🔹 **Desarrollador Web** — *Análisis Survey Unit SL*
-**10/2024 – Actualidad** · Madrid, España
-* Desarrollo y mantenimiento de plataformas interactivas de encuestas web.
-* Modelado, consulta y optimización de bases de datos para alto volumen de respuestas.
-* Integración de lógica dinámica en frontend y backend para flujos de cuestionarios complejos.
-* **Stack:** PHP, JavaScript, SQL, HTML5, CSS3, Git.
+### 🔹 **Desarrollador Web Full Stack** — *ANALISIS SURVEY UNIT SL*
+**Octubre 2024 — Actualidad** | Madrid
+* Desarrollo Full Stack en aplicaciones corporativas de gran escala para clientes multinacionales: implementación y mantenimiento de lógica de negocio, reglas de cálculo y motores de evaluación en C# y ASP.NET MVC.
+* Diseño e integración de APIs RESTful para la comunicación eficiente entre módulos, sincronización de datos y respuesta en tiempo real.
+* Desarrollo, optimización y mantenimiento de plataformas web dinámicas y encuestas interactivas de alto tráfico, garantizando un tratamiento fluido y seguro de datos masivos en bases de datos relacionales.
+* Modernización de herramientas internas y refactorización de código para mejorar el rendimiento y la mantenibilidad de los sistemas en producción.
+* **Stack:** C#, ASP.NET MVC, ASP clásico, JavaScript, PHP, MySQL / SQL Server, REST APIs, Bootstrap, HTML5, CSS3.
 
-### 🔹 **Desarrollador Web (Prácticas FCT)** — *IbernetCloud / Rentdays*
-**03/2024 – 06/2024** · Madrid, España
-* Desarrollo de plataforma de gestión de alquileres vacacionales (tipo Airbnb).
-* Implementación de paneles de administración, gestión de reservas y control de usuarios.
-* Maquetación responsive y optimización de rendimiento en interfaces web.
-* **Stack:** HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap.
+### 🔹 **(Prácticas) Desarrollador Web Full Stack** — *IbernetCloud, Rentdays*
+**Marzo 2024 — Junio 2024** | Madrid
+* Desarrollo integral de plataforma web de reservas y gestión inmobiliaria (modelo marketplace turístico estilo Airbnb): arquitectura modular y maquetación responsive orientada a conversión.
+* Implementación del motor de reservas en tiempo real, control dinámico de disponibilidad por fechas, cálculo automatizado de tarifas y gestión del ciclo de vida del alquiler.
+* Desarrollo del panel de administración (Dashboard) y gestión de usuarios, permitiendo a propietarios dar de alta inmuebles, gestionar inventario y monitorear reservas entrantes.
+* Diseño de interfaces con enfoque mobile-first mediante Bootstrap y JavaScript modular, asegurando máxima accesibilidad, tiempos de carga rápidos y compatibilidad cross-browser.
+* **Stack:** JavaScript (ES6+), PHP, MySQL, Bootstrap, HTML5, CSS3, REST APIs.
 
-### 🔹 **Desarrollador Web (Prácticas FCT)** — *Teditel / Tecnoaccesos*
-**03/2023 – 06/2023** · Madrid, España
-* Desarrollo de aplicación web accesible para control de accesos corporativos.
-* Implementación de registro de visitas y generación de códigos QR de acceso.
-* Cumplimiento de estándares de accesibilidad WCAG y usabilidad multiplataforma.
-* **Stack:** HTML5, CSS3, JavaScript, PHP, SQL, Bootstrap.
+### 🔹 **(Prácticas) Desarrollador Web / Software** — *Teditel, Tecnoaccesos*
+**Marzo 2023 — Junio 2023** | Vallecas, Madrid
+* Desarrollo y mantenimiento de software web para control de accesos y seguridad física en edificios corporativos y recintos empresariales.
+* Desarrollo con C# y .NET bajo arquitectura MVC, participando en la lógica de servidor para la gestión de credenciales y comunicación con terminales de acceso.
+* Implementación del sistema de registro de visitas en tiempo real, control de entradas/salidas y módulo de generación de códigos QR dinámicos para validación en lectores y tornos.
+* Creación de interfaces de usuario adaptadas a múltiples dispositivos y quioscos táctiles de recepción.
+* **Stack:** C#, .NET (MVC), JavaScript, HTML5, CSS3, MySQL.
 
-### 🔹 **Técnico de Sistemas (Prácticas FCT)** — *Motiva Consulting, S.L.*
-**03/2021 – 06/2021** · Madrid, España
-* Soporte técnico a usuarios, mantenimiento e instalación de software corporativo.
-* Configuración y administración de puestos de trabajo y redes locales.
-* **Stack:** Windows Server, Linux, Redes, Soporte TI.
+### 🔹 **(Prácticas) Técnico Informático de Sistemas** — *Motiva Consulting*
+**Marzo 2021 — Junio 2021** | San Blas, Madrid
+* Instalación y configuración de sistemas operativos y software. Mantenimiento, montaje y reparación de equipos y sistemas informáticos, garantizando la verificación y comprobación de su correcto funcionamiento.
+* Soporte técnico a usuarios, solucionando incidencias y realizando mantenimiento preventivo para asegurar el óptimo rendimiento de los sistemas.
 
 ---
 
-## 🎓 Educación & Formación
+## 📦 Proyectos Técnicos Destacados
+
+### 🏎️ [Motoring Community](https://github.com/Chriiis85/motoring-community)
+> Plataforma comunitaria en tiempo real para Fórmula 1 con consumo de APIs, cuenta atrás de GP y foros.  
+> **Stack:** `Next.js 15, React, TypeScript, Tailwind, APIs REST`  
+> **Web:** [motoring-community-v1.vercel.app](https://motoring-community-v1.vercel.app) · **Código:** [GitHub](https://github.com/Chriiis85/motoring-community)
+
+### 🎢 [RCManager](https://github.com/Chriiis85/RCManager) `Beta`
+> Plataforma web interactiva para aficionados a parques temáticos con catálogo mundial, diario y planificación de viajes.  
+> **Stack:** `Angular, TypeScript, Tailwind CSS, Supabase`  
+> **Web:** [rcmanager-nine.vercel.app](https://rcmanager-nine.vercel.app/) · **Código:** [GitHub](https://github.com/Chriiis85/RCManager)
+
+### 🎢 [RCManager API](https://github.com/Chriiis85/RCManagerAPI) `Beta`
+> API RESTful independiente y portal de documentación conectado a PostgreSQL en Supabase con endpoints en JSON.  
+> **Stack:** `Node.js, Express, PostgreSQL, Supabase`  
+> **Web & Docs:** [rc-manager-api.vercel.app](https://rc-manager-api.vercel.app/) · **Código:** [GitHub](https://github.com/Chriiis85/RCManagerAPI)
+
+### 🎓 [TFG DAW 2024](https://github.com/Chriiis85/TFG-DAW-2024) `Sin desplegar`
+> Portal web integral con foros dinámicos, consumo de APIs y accesibilidad universal (WCAG / WAI-ARIA y navegación por teclado).  
+> **Stack:** `PHP, JavaScript, MySQL, WCAG / a11y`  
+> **Código:** [GitHub](https://github.com/Chriiis85/TFG-DAW-2024)
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+* **Frontend:** React, Angular, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, HTML5, CSS3, Accesibilidad (WCAG / WAI-ARIA), Vite.
+* **Backend:** Node.js, Express, C#, ASP.NET Core MVC, Entity Framework Core, PHP, Java, REST APIs.
+* **Bases de Datos:** PostgreSQL, SQL Server, MySQL, Supabase, Firebase, Prisma ORM.
+* **Herramientas:** Git, GitHub, Vercel, Postman, VS Code, Linux / Terminal, Windows Server (Active Directory).
+* **Idiomas:** Español (Nativo) | Inglés (Nivel Alto).
+
+---
+
+## 🎓 Educación y Certificaciones
 
 ### 🏛️ Titulaciones Oficiales
 * **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
-  *I.E.S. Puig Adam* · Sep 2023 – Jun 2024 · Getafe, Madrid
+  *I.E.S. Puig Adam* · Sep 2023 — Jun 2024 | Getafe, Madrid
 * **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-  *La Inmaculada Padres Escolapios* · Sep 2021 – Jun 2023 · Getafe, Madrid
+  *La Inmaculada Padres Escolapios* · Sep 2021 — Jun 2023 | Getafe, Madrid
 * **Grado Medio en Sistemas Microinformáticos y Redes (SMR)**  
-  *I.E.S. Laguna de Joatzel* · Sep 2019 – Jun 2021 · Getafe, Madrid
+  *I.E.S. Laguna de Joatzel* · Sep 2019 — Jun 2021 | Getafe, Madrid
 
 ### 📜 Certificaciones Oficiales
-* 🏅 [**Angular 18: De Cero a Experto**](https://www.udemy.com/certificate/UC-c2f88cef-7d7f-4a92-801c-b15869b064ec/) — *Udemy*
-* 🏅 [**Git y GitHub**](https://www.udemy.com/certificate/UC-497035ed-855d-47fd-b05b-0bbcab3fa7cd/) — *Udemy*
-
----
-
-## 🛠️ Stack Tecnológico
-
-### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### ⚙️ Backend & APIs
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-</p>
-
-### 🗄️ Bases de Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-### 🧰 Herramientas & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-## 📦 Proyectos Destacados
-
-### 🏎️ [Motoring Community](https://github.com/Chriiis85/motoring-community)
-> **Stack:** Next.js · React · TypeScript · Tailwind CSS  
-> **Web:** [motoring-community-v1.vercel.app](https://motoring-community-v1.vercel.app) · **Código:** [GitHub](https://github.com/Chriiis85/motoring-community)
-* Plataforma web integral para seguidores de la **Fórmula 1**:
-  * Cuenta atrás en tiempo real para el próximo Gran Premio y noticias de última hora.
-  * Fichas técnicas completas de pilotos y escuderías actualizadas.
-  * Clasificación en vivo del Mundial de Constructores y Pilotos, e histórico de temporadas.
-  * Foro comunitario interactivo para debatir cada fin de semana de carreras.
-
-### 🎢 [RCManager API](https://github.com/Chriiis85/RCManagerAPI) `Beta`
-> **Stack:** Node.js · Express · PostgreSQL · Supabase · RESTful API  
-> **Web & Docs:** [rc-manager-api.vercel.app](https://rc-manager-api.vercel.app/) · **Código:** [GitHub](https://github.com/Chriiis85/RCManagerAPI)
-* Backend y portal de documentación interactiva para analítica de parques temáticos y montañas rusas:
-  * Endpoints RESTful públicos en JSON con datos en tiempo real.
-  * Modelado relacional en PostgreSQL (fabricantes, altura, velocidad, longitud, estado operativo).
-  * Consola interactiva para probar consultas GET directamente desde el navegador.
-
-### 🎢 [RCManager (Frontend)](https://github.com/Chriiis85/RCManager) `Beta`
-> **Stack:** JavaScript · HTML5 · CSS3 · Asistente ParksIA  
-> **Web:** [rcmanager-nine.vercel.app](https://rcmanager-nine.vercel.app/) · **Código:** [GitHub](https://github.com/Chriiis85/RCManager)
-* Plataforma comunitaria y gestor de *"credits"* (registro de montañas rusas probadas):
-  * Diario personal de visitas, puntuaciones de 1 a 10 y estadísticas de atracciones.
-  * Catálogo mundial de montañas rusas y ranking global de parques temáticos.
-  * Planificador de viajes con invitaciones entre amigos y asistente virtual **ParksIA**.
-
-### 📱 [Manager App](https://github.com/Chriiis85/Manager) `En desarrollo`
-> **Stack:** TypeScript · React · Tailwind CSS · UI/UX  
-> **Código:** [GitHub](https://github.com/Chriiis85/Manager)
-* Suite modular todo en uno para organización diaria personal:
-  * Control de finanzas, ingresos, gastos y presupuestos mensuales.
-  * Gestor de entrenamientos, series, pesos y marcas personales en el gimnasio.
-  * Listas de compras y despensa del hogar con bloc de notas rápidas.
-
-### 🎓 [TFG DAW 2024](https://github.com/Chriiis85/TFG-DAW-2024) `Sin desplegar`
-> **Stack:** PHP · JavaScript · CSS3 · MySQL  
-> **Código:** [GitHub](https://github.com/Chriiis85/TFG-DAW-2024)
-* Trabajo de Fin de Grado en **Desarrollo de Aplicaciones Web**: desarrollo Full Stack artesanal de la primera versión de comunidad de F1 con sistema de usuarios, foro con filtrado dinámico y base de datos relacional.
+* 🏅 [**Certificación: Angular 18 (De Cero a Experto)**](https://www.udemy.com/certificate/UC-c2f88cef-7d7f-4a92-801c-b15869b064ec/) — *Udemy*
+* 🏅 [**Certificación: Git y GitHub**](https://www.udemy.com/certificate/UC-497035ed-855d-47fd-b05b-0bbcab3fa7cd/) — *Udemy*
 
 ---
 
@@ -180,7 +130,7 @@ Actualmente en **Análisis Survey Unit SL**, desarrollando y manteniendo platafo
 * 💼 **LinkedIn:** [Christian Moreno Díaz](https://www.linkedin.com/in/christian-moreno-d%C3%ADaz-109024292/)
 * 📧 **Email:** [christianmorenodiaz85@gmail.com](mailto:christianmorenodiaz85@gmail.com)
 * 📱 **WhatsApp / Teléfono:** [+34 619 27 66 45](https://wa.me/34619276645)
-* 📍 **Ubicación:** Madrid, España
+* 📍 **Ubicación:** Getafe, Madrid · Carnet B (Coche propio)
 
 <br/>
 
