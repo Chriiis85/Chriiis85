@@ -89,6 +89,11 @@ Desarrollador Web Full Stack con formación integral en el diseño, desarrollo y
 > **Stack:** `Node.js, Express, PostgreSQL, Supabase`  
 > **Web & Docs:** [rc-manager-api.vercel.app](https://rc-manager-api.vercel.app/) · **Código:** [GitHub](https://github.com/Chriiis85/RCManagerAPI)
 
+### 📱 [Manager App](https://github.com/Chriiis85/Manager) `En desarrollo`
+> Suite modular todo en uno para organización diaria personal (finanzas, rutinas de entrenamiento y despensa/compras).  
+> **Stack:** `TypeScript, React, Tailwind CSS, UI/UX`  
+> **Código:** [GitHub](https://github.com/Chriiis85/Manager)
+
 ### 🎓 [TFG DAW 2024](https://github.com/Chriiis85/TFG-DAW-2024) `Sin desplegar`
 > Portal web integral con foros dinámicos, consumo de APIs y accesibilidad universal (WCAG / WAI-ARIA y navegación por teclado).  
 > **Stack:** `PHP, JavaScript, MySQL, WCAG / a11y`  
